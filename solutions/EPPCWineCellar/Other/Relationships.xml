@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EntityRelationships xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <EntityRelationship Name="business_unit_cr651_winestorage" />
+  <EntityRelationship Name="lk_cr651_winestorage_createdby" />
+  <EntityRelationship Name="lk_cr651_winestorage_modifiedby" />
+  <EntityRelationship Name="owner_cr651_winestorage" />
+  <EntityRelationship Name="team_cr651_winestorage" />
+  <EntityRelationship Name="TransactionCurrency_cr651_WineStorage" />
+  <EntityRelationship Name="user_cr651_winestorage" />
+</EntityRelationships>
