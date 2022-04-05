@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>githubme_winecellar_791b4</Name>
-  <AppVersion>2022-04-04T13:48:04Z</AppVersion>
+  <AppVersion>2022-04-05T15:14:55Z</AppVersion>
   <Status>Ready</Status>
   <CreatedByClientVersion>3.22022.23.0</CreatedByClientVersion>
   <MinClientVersion>3.22022.23.0</MinClientVersion>
-  <Tags>{"primaryDeviceWidth":"640","primaryDeviceHeight":"1136","sienaVersion":"762146e7-6ae4-40bb-be62-4ecd64b33513","deviceCapabilities":"","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Phone","publisherVersion":"3.22022.23","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
+  <Tags>{"primaryDeviceWidth":"640","primaryDeviceHeight":"1136","sienaVersion":"b125415f-82fa-4e3f-b510-740e6c1dc796","deviceCapabilities":"","supportsPortrait":"true","supportsLandscape":"true","primaryFormFactor":"Phone","publisherVersion":"3.22022.23","minimumRequiredApiVersion":"2.2.0","hasComponent":"false","hasUnlockedComponent":"false","isUnifiedRootApp":"false"}</Tags>
   <IsCdsUpgraded>0</IsCdsUpgraded>
   <GalleryItemId xsi:nil="true"></GalleryItemId>
   <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
@@ -14,7 +14,7 @@
   <CommitMessage xsi:nil="true"></CommitMessage>
   <Publisher xsi:nil="true"></Publisher>
   <AuthorizationReferences>[]</AuthorizationReferences>
-  <ConnectionReferences>{"eba37acf-c93e-4702-ba5f-634280658cf6":{"id":"/providers/microsoft.powerapps/apis/shared_cognitiveservicescustomvision","displayName":"Custom Vision","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1549/1.0.1549.2680/cognitiveservicescustomvision/icon.png","dataSources":["WineScanner"],"dependencies":[],"dependents":[],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"sharedConnectionId":"58f3d7cd-7f6c-41c7-912a-5137b8f3306f","bypassConsent":false,"dataSets":{},"apiTier":"Standard","actions":["PredictImage"]}}</ConnectionReferences>
+  <ConnectionReferences>{"eba37acf-c93e-4702-ba5f-634280658cf6":{"id":"/providers/microsoft.powerapps/apis/shared_cognitiveservicescustomvision","displayName":"Custom Vision","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1549/1.0.1549.2680/cognitiveservicescustomvision/icon.png","dataSources":["WineScanner"],"dependencies":[],"dependents":[],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"sharedConnectionId":"5dd23bac-ba83-4b50-89da-873cfb0c096e","bypassConsent":false,"dataSets":{},"apiTier":"Standard","actions":["PredictImage"]}}</ConnectionReferences>
   <DatabaseReferences>{"default.cds":{"databaseDetails":{"referenceType":"Environmental","environmentName":"default.cds","overrideValues":{"status":"NotSpecified"}},"dataSources":{"Wine Storages":{"entitySetName":"cr651_winestorages","logicalName":"cr651_winestorage"}}}}</DatabaseReferences>
   <AppComponents>[]</AppComponents>
   <AppComponentDependencies>[]</AppComponentDependencies>
