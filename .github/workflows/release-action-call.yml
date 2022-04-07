@@ -14,7 +14,7 @@ jobs:
       solution_name: EPPCWineCellar
       #Update your values here
       BUILD_ENVIRONMENT_URL: https://orgfcc5ece2.crm4.dynamics.com/
-      PRODUCTION_ENVIRONMENT_URL: https://orgfcc5ece2.crm4.dynamics.com/
+      PRODUCTION_ENVIRONMENT_URL: https://org3506888d.crm4.dynamics.com/
       CLIENT_ID: 9163d040-3b4f-453f-a01c-3c2ee9881e7c
       TENANT_ID: 948ea832-f631-4ac1-9979-664aa0de56da      
     secrets:
