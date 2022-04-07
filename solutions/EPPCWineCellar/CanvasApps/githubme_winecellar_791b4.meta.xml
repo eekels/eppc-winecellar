@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CanvasApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Name>githubme_winecellar_791b4</Name>
-  <AppVersion>2022-04-05T15:14:55Z</AppVersion>
+  <AppVersion>2022-04-07T09:21:52Z</AppVersion>
   <Status>Ready</Status>
   <CreatedByClientVersion>3.22022.23.0</CreatedByClientVersion>
   <MinClientVersion>3.22022.23.0</MinClientVersion>
@@ -10,11 +10,11 @@
   <GalleryItemId xsi:nil="true"></GalleryItemId>
   <BackgroundColor>RGBA(0,176,240,1)</BackgroundColor>
   <DisplayName>Wine Cellar</DisplayName>
-  <Description xsi:nil="true"></Description>
-  <CommitMessage xsi:nil="true"></CommitMessage>
-  <Publisher xsi:nil="true"></Publisher>
+  <Description></Description>
+  <CommitMessage></CommitMessage>
+  <Publisher></Publisher>
   <AuthorizationReferences>[]</AuthorizationReferences>
-  <ConnectionReferences>{"eba37acf-c93e-4702-ba5f-634280658cf6":{"id":"/providers/microsoft.powerapps/apis/shared_cognitiveservicescustomvision","displayName":"Custom Vision","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1549/1.0.1549.2680/cognitiveservicescustomvision/icon.png","dataSources":["WineScanner"],"dependencies":[],"dependents":[],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"sharedConnectionId":"5dd23bac-ba83-4b50-89da-873cfb0c096e","bypassConsent":false,"dataSets":{},"apiTier":"Standard","actions":["PredictImage"]}}</ConnectionReferences>
+  <ConnectionReferences>{"eba37acf-c93e-4702-ba5f-634280658cf6":{"id":"/providers/microsoft.powerapps/apis/shared_cognitiveservicescustomvision","displayName":"Custom Vision","iconUri":"https://connectoricons-prod.azureedge.net/releases/v1.0.1549/1.0.1549.2680/cognitiveservicescustomvision/icon.png","dataSources":["WineScanner"],"dependencies":[],"dependents":[],"parameterHints":{},"parameterHintsV2":{},"isOnPremiseConnection":false,"sharedConnectionId":"d29b258b-cdc4-4ec1-a2fa-7dbfe4699ff7","bypassConsent":false,"dataSets":{},"apiTier":"Standard","actions":["PredictImage"]}}</ConnectionReferences>
   <DatabaseReferences>{"default.cds":{"databaseDetails":{"referenceType":"Environmental","environmentName":"default.cds","overrideValues":{"status":"NotSpecified"}},"dataSources":{"Wine Storages":{"entitySetName":"cr651_winestorages","logicalName":"cr651_winestorage"}}}}</DatabaseReferences>
   <AppComponents>[]</AppComponents>
   <AppComponentDependencies>[]</AppComponentDependencies>
@@ -24,7 +24,7 @@
   <AdminControlBypassConsent>0</AdminControlBypassConsent>
   <EmbeddedApp xsi:nil="true"></EmbeddedApp>
   <IntroducedVersion>1.0</IntroducedVersion>
-  <CdsDependencies>{"cdsdependencies":[{"logicalname":"cr651_winestorage","componenttype":1}]}</CdsDependencies>
+  <CdsDependencies>{"cdsdependencies":[{"componenttype":1,"logicalname":"cr651_winestorage"}]}</CdsDependencies>
   <IsCustomizable>1</IsCustomizable>
   <BackgroundImageUri>/CanvasApps/githubme_winecellar_791b4_BackgroundImageUri</BackgroundImageUri>
   <DocumentUri>/CanvasApps/githubme_winecellar_791b4_DocumentUri.msapp</DocumentUri>
