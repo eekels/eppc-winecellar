@@ -1,1 +1,1 @@
-# eppc-winecellar
+# Wine Cellar App in the Power Platform
